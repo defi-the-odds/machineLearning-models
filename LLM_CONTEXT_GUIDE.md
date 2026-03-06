@@ -67,6 +67,53 @@ This document is designed for machine parsing by OpenClaw or other AI agents. It
 
 ---
 
+## HIGH_CONFIDENCE_METRICS
+
+### Definition
+High-confidence metrics are combinations of model outputs and datapoints that strongly indicate a specific market condition or trading opportunity. These signals are derived from both Daily and Hourly timeframes and are suitable for various trading strategies.
+
+### Examples
+
+- **Daily Timeframe: Trend-Following Entry**
+  - Inputs: market_regime_score > 80, future_vol < 0.02, expansion_probability < 0.4
+  - Signal: Strong bull regime, low volatility, low expansion risk
+  - Strategy: Enter long position; add to existing longs; hold through minor pullbacks
+
+- **Daily Timeframe: Volatility Breakout**
+  - Inputs: future_vol > 0.04, expansion_probability > 0.7, market_regime_score > 60
+  - Signal: High expected volatility, high probability of expansion, bullish regime
+  - Strategy: Enter new long position; add to longs on confirmation; reduce shorts
+
+- **Hourly Timeframe: Mean Reversion**
+  - Inputs: market_regime_score between 40–60, future_vol < 0.01, expansion_probability < 0.3
+  - Signal: Sideways regime, low volatility, low expansion risk
+  - Strategy: Reduce exposure; take profits; avoid new positions
+
+- **Hourly Timeframe: Momentum Scalping**
+  - Inputs: market_regime_score > 75, expansion_probability > 0.6, recent volume spike
+  - Signal: Bull regime, high expansion probability, momentum confirmed by volume
+  - Strategy: Enter short-term long trades; add to longs quickly; use trailing stops
+
+- **Daily Timeframe: Risk-Off Hedging**
+  - Inputs: future_vol > 0.06, expansion_probability > 0.85, market_regime_score < 30
+  - Signal: Bear regime, extreme volatility, high expansion risk
+  - Strategy: Reduce exposure; hedge existing longs; avoid new longs; consider short positions
+
+- **Hourly Timeframe: Volatility Fade**
+  - Inputs: future_vol spikes > 0.03, expansion_probability drops < 0.4 after spike
+  - Signal: Volatility spike exhausted, expansion risk receding
+  - Strategy: Take profits on longs; reduce exposure; avoid new trades until conditions stabilize
+
+### Strategy Suitability
+- **Trend-Following:** Use high regime scores and low volatility for entry; add to longs, hold through pullbacks
+- **Breakout Trading:** Seek high future_vol and expansion_probability; enter or add to longs, reduce shorts
+- **Mean Reversion:** Target mid regime scores and low volatility; reduce exposure, take profits
+- **Scalping:** Use hourly signals with high regime and expansion probability; enter short-term longs, add quickly
+- **Hedging/Risk-Off:** Enter when volatility and expansion risk are extreme, and regime is bearish; reduce exposure, hedge longs, consider shorts
+- **Volatility Fading:** Take profits after volatility spikes and expansion probability drops; reduce exposure
+
+---
+
 ## NOTES
 - All rules and interpretations are deterministic and context-rich for machine parsing.
 - Use confluence of model outputs and technical indicators for best results.

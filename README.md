@@ -13,6 +13,13 @@ The goal of this repo is to:
 - Provide confidence in the model results by sharing performance metrics and validation methods.
 - Help users make informed decisions by explaining what each output means and how it can be applied.
 
+## Additional Purpose
+
+Another purpose of this repository is to provide AI Agents with the context needed to trade based on the outputs of DefiTheOdds prediction models. By structuring model outputs and trading signals in a machine-parseable format, the repo enables automated agents to make informed trading decisions using both daily and hourly predictions.
+
+
+![Image](images/image.png)
+
 ## How to Read Model Outputs
 
 - **Volatility Regressor:** Predicts future volatility levels. Higher values indicate more expected price movement; lower values suggest calm, range-bound markets.
