@@ -1,0 +1,750 @@
+symbol,timeframe,math_principle,predicted_metric,ml_model_type,model_accuracy_percent,model_size_kb
+
+BTC-USD,daily,Power Law Distributions,Tail Risk,XGBoost,73.86,867.17
+BTC-USD,daily,Volatility Regime,Regime State,LogisticRegression,93.01,1.72
+BTC-USD,daily,Volatility Regime,Regime State,XGBoost,93.01,164.02
+BTC-USD,daily,Volatility Regime,Regime State,LightGBM,93.01,89.71
+BTC-USD,daily,Volatility Regime,Regime State,CatBoost,93.01,33.86
+BTC-USD,daily,Topological Persistence,Regime Change,XGBoost,94.7,448.13
+BTC-USD,daily,Topological Persistence,Regime Change,LightGBM,95.12,555.34
+BTC-USD,daily,Topological Persistence,Regime Change,CatBoost,92.42,1279.69
+BTC-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.34,1.75
+BTC-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,83.16,429.01
+BTC-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,83.59,129.44
+BTC-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,83.67,143.89
+BTC-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,78.48,1286.54
+BTC-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,86.12,308.88
+BTC-USD,hourly,Power Law Distributions,Tail Risk,CatBoost,75.84,1612.35
+BTC-USD,hourly,Volatility Regime,Regime State,LogisticRegression,91.76,1.72
+BTC-USD,hourly,Volatility Regime,Regime State,XGBoost,91.76,218.51
+BTC-USD,hourly,Volatility Regime,Regime State,LightGBM,91.76,167.55
+BTC-USD,hourly,Volatility Regime,Regime State,CatBoost,91.76,280.8
+BTC-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.53,537.39
+BTC-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.63,614.07
+BTC-USD,hourly,Topological Persistence,Regime Change,CatBoost,90.85,734.71
+BTC-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.82,1.75
+BTC-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,82.52,192.43
+BTC-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,82.47,223.25
+BTC-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,82.85,2975.78
+ETH-USD,daily,Power Law Distributions,Tail Risk,XGBoost,72.93,592.4
+ETH-USD,daily,Volatility Regime,Regime State,LogisticRegression,90.62,1.72
+ETH-USD,daily,Volatility Regime,Regime State,XGBoost,90.62,77.12
+ETH-USD,daily,Volatility Regime,Regime State,LightGBM,90.62,485.31
+ETH-USD,daily,Volatility Regime,Regime State,CatBoost,90.62,42.57
+ETH-USD,daily,Topological Persistence,Regime Change,XGBoost,93.93,310.11
+ETH-USD,daily,Topological Persistence,Regime Change,LightGBM,94.48,340.12
+ETH-USD,daily,Topological Persistence,Regime Change,CatBoost,93.82,2845.58
+ETH-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.0,1.75
+ETH-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,82.78,213.48
+ETH-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,83.0,380.44
+ETH-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,84.22,43.99
+ETH-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,74.02,1054.9
+ETH-USD,hourly,Power Law Distributions,Tail Risk,CatBoost,70.08,3189.9
+ETH-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.77,1.72
+ETH-USD,hourly,Volatility Regime,Regime State,XGBoost,93.77,322.77
+ETH-USD,hourly,Volatility Regime,Regime State,LightGBM,93.77,213.19
+ETH-USD,hourly,Volatility Regime,Regime State,CatBoost,93.77,84.96
+ETH-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.64,699.8
+ETH-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.97,675.53
+ETH-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.58,1407.48
+ETH-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.39,1.75
+ETH-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,83.81,211.49
+ETH-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,83.91,207.39
+ETH-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,84.34,36.91
+BNB-USD,daily,Volatility Regime,Regime State,LogisticRegression,95.58,1.72
+BNB-USD,daily,Volatility Regime,Regime State,XGBoost,95.58,197.93
+BNB-USD,daily,Volatility Regime,Regime State,LightGBM,95.58,252.61
+BNB-USD,daily,Volatility Regime,Regime State,CatBoost,95.58,56.59
+BNB-USD,daily,Topological Persistence,Regime Change,XGBoost,96.03,388.53
+BNB-USD,daily,Topological Persistence,Regime Change,LightGBM,96.58,206.88
+BNB-USD,daily,Topological Persistence,Regime Change,CatBoost,95.7,212.72
+BNB-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,87.56,1.75
+BNB-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,87.78,315.59
+BNB-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,87.78,236.06
+BNB-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,87.89,570.37
+BNB-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,73.68,1058.59
+BNB-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,86.22,179.97
+BNB-USD,hourly,Volatility Regime,Regime State,LogisticRegression,91.43,1.72
+BNB-USD,hourly,Volatility Regime,Regime State,XGBoost,91.43,356.06
+BNB-USD,hourly,Volatility Regime,Regime State,LightGBM,91.43,69.74
+BNB-USD,hourly,Volatility Regime,Regime State,CatBoost,91.43,784.33
+BNB-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.01,600.66
+BNB-USD,hourly,Topological Persistence,Regime Change,LightGBM,92.86,571.46
+BNB-USD,hourly,Topological Persistence,Regime Change,CatBoost,90.09,1436.0
+BNB-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.11,1.75
+BNB-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.91,200.6
+BNB-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,85.11,189.24
+BNB-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.39,255.07
+SOL-USD,daily,Power Law Distributions,Tail Risk,XGBoost,73.02,626.76
+SOL-USD,daily,Power Law Distributions,Tail Risk,LightGBM,71.75,600.42
+SOL-USD,daily,Power Law Distributions,Tail Risk,CatBoost,72.38,1622.84
+SOL-USD,daily,Volatility Regime,Regime State,LogisticRegression,90.97,1.72
+SOL-USD,daily,Volatility Regime,Regime State,XGBoost,90.97,331.77
+SOL-USD,daily,Volatility Regime,Regime State,LightGBM,90.97,95.36
+SOL-USD,daily,Volatility Regime,Regime State,CatBoost,91.12,1549.02
+SOL-USD,daily,Topological Persistence,Regime Change,XGBoost,94.55,337.63
+SOL-USD,daily,Topological Persistence,Regime Change,LightGBM,94.55,509.65
+SOL-USD,daily,Topological Persistence,Regime Change,CatBoost,93.46,211.36
+SOL-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.16,1.75
+SOL-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,85.06,212.76
+SOL-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,84.59,202.22
+SOL-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,86.32,116.31
+SOL-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,73.82,1089.18
+SOL-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.1,1.72
+SOL-USD,hourly,Volatility Regime,Regime State,XGBoost,93.1,253.93
+SOL-USD,hourly,Volatility Regime,Regime State,LightGBM,93.15,73.58
+SOL-USD,hourly,Volatility Regime,Regime State,CatBoost,93.1,126.75
+SOL-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.16,721.03
+SOL-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.54,657.17
+SOL-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.67,2706.9
+SOL-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.44,1.75
+SOL-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.77,148.2
+SOL-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.72,150.49
+SOL-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,84.77,608.57
+ADA-USD,daily,Power Law Distributions,Tail Risk,XGBoost,73.27,814.2
+ADA-USD,daily,Power Law Distributions,Tail Risk,LightGBM,71.59,611.6
+ADA-USD,daily,Power Law Distributions,Tail Risk,CatBoost,70.92,3182.38
+ADA-USD,daily,Volatility Regime,Regime State,LogisticRegression,92.6,1.72
+ADA-USD,daily,Volatility Regime,Regime State,XGBoost,92.6,388.59
+ADA-USD,daily,Volatility Regime,Regime State,LightGBM,92.6,122.05
+ADA-USD,daily,Volatility Regime,Regime State,CatBoost,92.6,25.17
+ADA-USD,daily,Topological Persistence,Regime Change,XGBoost,93.82,341.05
+ADA-USD,daily,Topological Persistence,Regime Change,LightGBM,94.15,506.29
+ADA-USD,daily,Topological Persistence,Regime Change,CatBoost,92.83,2843.72
+ADA-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.44,1.75
+ADA-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,83.44,175.77
+ADA-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,82.78,151.85
+ADA-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,82.78,424.67
+ADA-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,73.58,1162.95
+ADA-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,82.61,363.11
+ADA-USD,hourly,Power Law Distributions,Tail Risk,CatBoost,70.32,3217.96
+ADA-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.1,1.72
+ADA-USD,hourly,Volatility Regime,Regime State,XGBoost,93.1,143.71
+ADA-USD,hourly,Volatility Regime,Regime State,LightGBM,93.1,393.83
+ADA-USD,hourly,Volatility Regime,Regime State,CatBoost,93.1,29.68
+ADA-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.34,589.92
+ADA-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.34,672.85
+ADA-USD,hourly,Topological Persistence,Regime Change,CatBoost,85.44,2734.99
+ADA-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.97,1.75
+ADA-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,86.21,189.18
+ADA-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,86.54,137.72
+ADA-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,86.54,81.57
+XRP-USD,daily,Power Law Distributions,Tail Risk,XGBoost,70.36,834.1
+XRP-USD,daily,Power Law Distributions,Tail Risk,LightGBM,86.69,87.5
+XRP-USD,daily,Volatility Regime,Regime State,LogisticRegression,92.72,1.72
+XRP-USD,daily,Volatility Regime,Regime State,XGBoost,92.72,76.43
+XRP-USD,daily,Volatility Regime,Regime State,LightGBM,92.72,57.35
+XRP-USD,daily,Volatility Regime,Regime State,CatBoost,92.72,44.44
+XRP-USD,daily,Topological Persistence,Regime Change,XGBoost,94.7,396.28
+XRP-USD,daily,Topological Persistence,Regime Change,LightGBM,94.48,491.06
+XRP-USD,daily,Topological Persistence,Regime Change,CatBoost,92.38,2904.68
+XRP-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.11,1.75
+XRP-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,85.11,61.4
+XRP-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,85.56,165.03
+XRP-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,86.0,802.91
+XRP-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,74.02,1248.48
+XRP-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,85.83,181.52
+XRP-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.49,1.72
+XRP-USD,hourly,Volatility Regime,Regime State,XGBoost,93.49,588.79
+XRP-USD,hourly,Volatility Regime,Regime State,LightGBM,93.49,435.97
+XRP-USD,hourly,Volatility Regime,Regime State,CatBoost,93.49,53.07
+XRP-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.54,660.19
+XRP-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.59,665.73
+XRP-USD,hourly,Topological Persistence,Regime Change,CatBoost,93.15,2820.37
+XRP-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.58,1.75
+XRP-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.48,97.32
+XRP-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.72,120.96
+XRP-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,84.91,2200.67
+DOT-USD,daily,Power Law Distributions,Tail Risk,XGBoost,76.53,695.01
+DOT-USD,daily,Power Law Distributions,Tail Risk,LightGBM,72.79,551.8
+DOT-USD,daily,Power Law Distributions,Tail Risk,CatBoost,74.32,1616.74
+DOT-USD,daily,Volatility Regime,Regime State,LogisticRegression,90.33,1.72
+DOT-USD,daily,Volatility Regime,Regime State,XGBoost,90.33,103.2
+DOT-USD,daily,Volatility Regime,Regime State,LightGBM,90.33,375.52
+DOT-USD,daily,Volatility Regime,Regime State,CatBoost,90.33,65.78
+DOT-USD,daily,Topological Persistence,Regime Change,XGBoost,93.83,415.84
+DOT-USD,daily,Topological Persistence,Regime Change,LightGBM,93.67,398.4
+DOT-USD,daily,Topological Persistence,Regime Change,CatBoost,92.67,2722.01
+DOT-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,83.16,1.75
+DOT-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,82.32,84.63
+DOT-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,83.16,111.52
+DOT-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,83.0,62.97
+DOT-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,76.51,1327.88
+DOT-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,85.4,205.42
+DOT-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.34,1.72
+DOT-USD,hourly,Volatility Regime,Regime State,XGBoost,92.34,281.13
+DOT-USD,hourly,Volatility Regime,Regime State,LightGBM,92.34,546.71
+DOT-USD,hourly,Volatility Regime,Regime State,CatBoost,92.34,78.83
+DOT-USD,hourly,Topological Persistence,Regime Change,XGBoost,92.86,683.95
+DOT-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.1,672.63
+DOT-USD,hourly,Topological Persistence,Regime Change,CatBoost,90.8,751.06
+DOT-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.58,1.75
+DOT-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,85.63,155.07
+DOT-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,85.82,170.78
+DOT-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.73,44.68
+DOGE-USD,daily,Power Law Distributions,Tail Risk,XGBoost,79.08,791.38
+DOGE-USD,daily,Power Law Distributions,Tail Risk,LightGBM,74.38,564.02
+DOGE-USD,daily,Power Law Distributions,Tail Risk,CatBoost,72.15,2943.72
+DOGE-USD,daily,Volatility Regime,Regime State,LogisticRegression,92.94,1.72
+DOGE-USD,daily,Volatility Regime,Regime State,XGBoost,92.94,238.4
+DOGE-USD,daily,Volatility Regime,Regime State,LightGBM,92.94,629.02
+DOGE-USD,daily,Volatility Regime,Regime State,CatBoost,92.94,94.38
+DOGE-USD,daily,Topological Persistence,Regime Change,XGBoost,94.7,390.64
+DOGE-USD,daily,Topological Persistence,Regime Change,LightGBM,96.03,673.87
+DOGE-USD,daily,Topological Persistence,Regime Change,CatBoost,93.71,216.03
+DOGE-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,81.56,1.75
+DOGE-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,83.11,314.48
+DOGE-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,82.44,61.39
+DOGE-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,83.56,74.81
+DOGE-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,74.83,1297.24
+DOGE-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.49,1.72
+DOGE-USD,hourly,Volatility Regime,Regime State,XGBoost,93.49,216.63
+DOGE-USD,hourly,Volatility Regime,Regime State,LightGBM,93.49,131.38
+DOGE-USD,hourly,Volatility Regime,Regime State,CatBoost,93.49,30.22
+DOGE-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.87,683.09
+DOGE-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.06,650.65
+DOGE-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.72,1445.48
+DOGE-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.97,1.75
+DOGE-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,86.64,99.4
+DOGE-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,86.78,318.08
+DOGE-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,86.49,379.6
+AVAX-USD,daily,Power Law Distributions,Tail Risk,XGBoost,71.13,597.34
+AVAX-USD,daily,Power Law Distributions,Tail Risk,LightGBM,71.82,530.58
+AVAX-USD,daily,Power Law Distributions,Tail Risk,CatBoost,73.02,3217.93
+AVAX-USD,daily,Volatility Regime,Regime State,LogisticRegression,91.92,1.72
+AVAX-USD,daily,Volatility Regime,Regime State,XGBoost,92.09,128.31
+AVAX-USD,daily,Volatility Regime,Regime State,LightGBM,91.92,188.81
+AVAX-USD,daily,Volatility Regime,Regime State,CatBoost,91.92,2240.88
+AVAX-USD,daily,Topological Persistence,Regime Change,XGBoost,93.6,247.72
+AVAX-USD,daily,Topological Persistence,Regime Change,LightGBM,94.28,682.4
+AVAX-USD,daily,Topological Persistence,Regime Change,CatBoost,92.42,771.18
+AVAX-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.35,1.75
+AVAX-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,81.97,156.06
+AVAX-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,82.31,208.24
+AVAX-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,83.67,130.39
+AVAX-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,73.15,1285.54
+AVAX-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,84.39,289.31
+AVAX-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.49,1.72
+AVAX-USD,hourly,Volatility Regime,Regime State,XGBoost,93.49,73.63
+AVAX-USD,hourly,Volatility Regime,Regime State,LightGBM,93.49,365.67
+AVAX-USD,hourly,Volatility Regime,Regime State,CatBoost,93.49,990.42
+AVAX-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.78,723.88
+AVAX-USD,hourly,Topological Persistence,Regime Change,LightGBM,96.41,118.09
+AVAX-USD,hourly,Topological Persistence,Regime Change,CatBoost,88.22,1336.48
+AVAX-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,87.45,1.75
+AVAX-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,86.73,82.34
+AVAX-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,87.21,53.22
+AVAX-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,87.21,114.18
+LINK-USD,daily,Power Law Distributions,Tail Risk,XGBoost,73.71,855.88
+LINK-USD,daily,Volatility Regime,Regime State,LogisticRegression,89.96,1.72
+LINK-USD,daily,Volatility Regime,Regime State,XGBoost,89.96,212.77
+LINK-USD,daily,Volatility Regime,Regime State,LightGBM,89.96,89.14
+LINK-USD,daily,Volatility Regime,Regime State,CatBoost,89.96,19.87
+LINK-USD,daily,Topological Persistence,Regime Change,XGBoost,92.05,468.94
+LINK-USD,daily,Topological Persistence,Regime Change,LightGBM,92.6,659.29
+LINK-USD,daily,Topological Persistence,Regime Change,CatBoost,91.17,1453.9
+LINK-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.89,1.75
+LINK-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,86.22,104.87
+LINK-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,85.89,80.78
+LINK-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,86.44,23.33
+LINK-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,71.66,1220.73
+LINK-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.43,1.72
+LINK-USD,hourly,Volatility Regime,Regime State,XGBoost,92.43,246.06
+LINK-USD,hourly,Volatility Regime,Regime State,LightGBM,92.43,192.24
+LINK-USD,hourly,Volatility Regime,Regime State,CatBoost,92.43,882.7
+LINK-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.11,482.61
+LINK-USD,hourly,Topological Persistence,Regime Change,LightGBM,95.21,45.57
+LINK-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.82,2828.27
+LINK-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.39,1.75
+LINK-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.63,306.76
+LINK-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.39,240.77
+LINK-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.01,169.04
+TRX-USD,daily,Power Law Distributions,Tail Risk,XGBoost,70.36,800.99
+TRX-USD,daily,Volatility Regime,Regime State,LogisticRegression,93.6,1.72
+TRX-USD,daily,Volatility Regime,Regime State,XGBoost,93.6,121.76
+TRX-USD,daily,Volatility Regime,Regime State,LightGBM,93.6,316.33
+TRX-USD,daily,Volatility Regime,Regime State,CatBoost,93.6,123.66
+TRX-USD,daily,Topological Persistence,Regime Change,XGBoost,95.81,289.72
+TRX-USD,daily,Topological Persistence,Regime Change,LightGBM,95.92,454.26
+TRX-USD,daily,Topological Persistence,Regime Change,CatBoost,95.03,760.59
+TRX-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.22,1.75
+TRX-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,82.0,161.29
+TRX-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,82.22,307.03
+TRX-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,84.11,121.33
+TRX-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.58,1.72
+TRX-USD,hourly,Volatility Regime,Regime State,XGBoost,92.58,57.62
+TRX-USD,hourly,Volatility Regime,Regime State,LightGBM,92.58,306.75
+TRX-USD,hourly,Volatility Regime,Regime State,CatBoost,92.58,30.9
+TRX-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.01,664.47
+TRX-USD,hourly,Topological Persistence,Regime Change,LightGBM,96.26,75.32
+TRX-USD,hourly,Topological Persistence,Regime Change,CatBoost,91.33,2819.04
+TRX-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,83.09,1.75
+TRX-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,82.38,203.87
+TRX-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,82.38,576.56
+TRX-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,82.09,52.7
+HYPE-USD,daily,Power Law Distributions,Tail Risk,XGBoost,75.0,224.84
+HYPE-USD,daily,Power Law Distributions,Tail Risk,LightGBM,78.33,222.63
+HYPE-USD,daily,Power Law Distributions,Tail Risk,CatBoost,82.5,1563.2
+HYPE-USD,daily,Volatility Regime,Regime State,LogisticRegression,89.39,1.72
+HYPE-USD,daily,Volatility Regime,Regime State,XGBoost,89.39,102.93
+HYPE-USD,daily,Volatility Regime,Regime State,LightGBM,89.39,96.71
+HYPE-USD,daily,Volatility Regime,Regime State,CatBoost,89.39,25.65
+HYPE-USD,daily,Topological Persistence,Regime Change,XGBoost,90.91,204.53
+HYPE-USD,daily,Topological Persistence,Regime Change,LightGBM,90.15,279.78
+HYPE-USD,daily,Topological Persistence,Regime Change,CatBoost,90.15,671.57
+HYPE-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,80.16,1.75
+HYPE-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,81.75,161.85
+HYPE-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,82.54,46.22
+HYPE-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,83.33,184.19
+HYPE-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,73.29,1277.35
+HYPE-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.48,1.72
+HYPE-USD,hourly,Volatility Regime,Regime State,XGBoost,92.48,178.81
+HYPE-USD,hourly,Volatility Regime,Regime State,LightGBM,92.48,382.19
+HYPE-USD,hourly,Volatility Regime,Regime State,CatBoost,92.48,301.48
+HYPE-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.06,726.05
+HYPE-USD,hourly,Topological Persistence,Regime Change,LightGBM,96.22,250.73
+HYPE-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.0,2862.55
+HYPE-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.82,1.75
+HYPE-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.29,142.95
+HYPE-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.2,143.22
+HYPE-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,84.82,318.15
+SUI-USD,daily,Power Law Distributions,Tail Risk,XGBoost,76.53,302.54
+SUI-USD,daily,Power Law Distributions,Tail Risk,LightGBM,87.41,145.94
+SUI-USD,daily,Volatility Regime,Regime State,LogisticRegression,90.52,1.72
+SUI-USD,daily,Volatility Regime,Regime State,XGBoost,90.85,268.24
+SUI-USD,daily,Volatility Regime,Regime State,LightGBM,90.85,271.0
+SUI-USD,daily,Volatility Regime,Regime State,CatBoost,90.52,91.46
+SUI-USD,daily,Topological Persistence,Regime Change,XGBoost,94.12,286.95
+SUI-USD,daily,Topological Persistence,Regime Change,LightGBM,94.77,431.49
+SUI-USD,daily,Topological Persistence,Regime Change,CatBoost,91.83,2814.89
+SUI-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,79.67,1.75
+SUI-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,80.0,185.23
+SUI-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,78.67,64.02
+SUI-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,79.67,22.54
+SUI-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,76.46,1207.74
+SUI-USD,hourly,Power Law Distributions,Tail Risk,CatBoost,71.76,1624.38
+SUI-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.39,1.72
+SUI-USD,hourly,Volatility Regime,Regime State,XGBoost,93.39,98.32
+SUI-USD,hourly,Volatility Regime,Regime State,LightGBM,93.39,96.94
+SUI-USD,hourly,Volatility Regime,Regime State,CatBoost,93.39,629.21
+SUI-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.35,711.22
+SUI-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.68,640.71
+SUI-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.72,2843.09
+SUI-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.59,1.75
+SUI-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,86.69,116.26
+SUI-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,86.59,179.85
+SUI-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,86.78,2499.23
+XLM-USD,daily,Power Law Distributions,Tail Risk,XGBoost,71.7,788.09
+XLM-USD,daily,Volatility Regime,Regime State,LogisticRegression,91.61,1.72
+XLM-USD,daily,Volatility Regime,Regime State,XGBoost,91.61,181.81
+XLM-USD,daily,Volatility Regime,Regime State,LightGBM,91.61,368.81
+XLM-USD,daily,Volatility Regime,Regime State,CatBoost,91.61,43.23
+XLM-USD,daily,Topological Persistence,Regime Change,XGBoost,93.05,522.14
+XLM-USD,daily,Topological Persistence,Regime Change,LightGBM,93.71,651.51
+XLM-USD,daily,Topological Persistence,Regime Change,CatBoost,88.52,2640.52
+XLM-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.89,1.75
+XLM-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,87.56,141.82
+XLM-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,87.67,161.63
+XLM-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,88.22,150.04
+XLM-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,76.46,1284.59
+XLM-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,84.01,187.72
+XLM-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.39,1.72
+XLM-USD,hourly,Volatility Regime,Regime State,XGBoost,93.39,189.46
+XLM-USD,hourly,Volatility Regime,Regime State,LightGBM,93.39,504.22
+XLM-USD,hourly,Volatility Regime,Regime State,CatBoost,93.39,51.09
+XLM-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.25,575.27
+XLM-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.44,638.21
+XLM-USD,hourly,Topological Persistence,Regime Change,CatBoost,81.8,1197.75
+XLM-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.63,1.75
+XLM-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.48,100.62
+XLM-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.63,309.64
+XLM-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,84.82,18.34
+BCH-USD,daily,Power Law Distributions,Tail Risk,XGBoost,73.15,698.31
+BCH-USD,daily,Power Law Distributions,Tail Risk,LightGBM,75.5,439.83
+BCH-USD,daily,Power Law Distributions,Tail Risk,CatBoost,71.92,3205.91
+BCH-USD,daily,Volatility Regime,Regime State,LogisticRegression,92.6,1.72
+BCH-USD,daily,Volatility Regime,Regime State,XGBoost,92.6,178.59
+BCH-USD,daily,Volatility Regime,Regime State,LightGBM,92.6,441.58
+BCH-USD,daily,Volatility Regime,Regime State,CatBoost,92.6,21.56
+BCH-USD,daily,Topological Persistence,Regime Change,XGBoost,93.6,485.2
+BCH-USD,daily,Topological Persistence,Regime Change,LightGBM,94.37,580.96
+BCH-USD,daily,Topological Persistence,Regime Change,CatBoost,92.49,2775.4
+BCH-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,83.56,1.75
+BCH-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,83.78,137.18
+BCH-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,83.56,519.02
+BCH-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,83.33,94.46
+BCH-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,75.26,1345.04
+BCH-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,70.89,486.46
+BCH-USD,hourly,Power Law Distributions,Tail Risk,CatBoost,70.17,3231.95
+BCH-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.1,1.72
+BCH-USD,hourly,Volatility Regime,Regime State,XGBoost,93.1,127.21
+BCH-USD,hourly,Volatility Regime,Regime State,LightGBM,93.1,130.5
+BCH-USD,hourly,Volatility Regime,Regime State,CatBoost,93.1,954.35
+BCH-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.44,671.92
+BCH-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.92,617.7
+BCH-USD,hourly,Topological Persistence,Regime Change,CatBoost,91.81,1476.97
+BCH-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.87,1.75
+BCH-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.77,314.63
+BCH-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,85.01,173.72
+BCH-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.68,863.31
+HBAR-USD,daily,Power Law Distributions,Tail Risk,XGBoost,71.59,532.15
+HBAR-USD,daily,Power Law Distributions,Tail Risk,LightGBM,86.23,227.8
+HBAR-USD,daily,Volatility Regime,Regime State,LogisticRegression,92.59,1.72
+HBAR-USD,daily,Volatility Regime,Regime State,XGBoost,92.59,73.52
+HBAR-USD,daily,Volatility Regime,Regime State,LightGBM,92.59,76.31
+HBAR-USD,daily,Volatility Regime,Regime State,CatBoost,92.59,53.0
+HBAR-USD,daily,Topological Persistence,Regime Change,XGBoost,93.02,327.13
+HBAR-USD,daily,Topological Persistence,Regime Change,LightGBM,94.87,445.21
+HBAR-USD,daily,Topological Persistence,Regime Change,CatBoost,91.17,745.49
+HBAR-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,88.07,1.75
+HBAR-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,86.78,113.98
+HBAR-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,86.35,104.88
+HBAR-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,87.5,68.03
+HBAR-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,73.05,1054.65
+HBAR-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,85.88,228.17
+HBAR-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.77,1.72
+HBAR-USD,hourly,Volatility Regime,Regime State,XGBoost,93.77,581.99
+HBAR-USD,hourly,Volatility Regime,Regime State,LightGBM,93.77,240.11
+HBAR-USD,hourly,Volatility Regime,Regime State,CatBoost,93.77,72.75
+HBAR-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.4,682.94
+HBAR-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.59,665.04
+HBAR-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.53,1456.23
+HBAR-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.11,1.75
+HBAR-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,85.73,101.95
+HBAR-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,85.82,167.8
+HBAR-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.92,883.85
+LTC-USD,daily,Power Law Distributions,Tail Risk,XGBoost,71.07,909.99
+LTC-USD,daily,Volatility Regime,Regime State,LogisticRegression,94.11,1.72
+LTC-USD,daily,Volatility Regime,Regime State,XGBoost,94.11,125.49
+LTC-USD,daily,Volatility Regime,Regime State,LightGBM,94.11,252.61
+LTC-USD,daily,Volatility Regime,Regime State,CatBoost,94.11,144.81
+LTC-USD,daily,Topological Persistence,Regime Change,XGBoost,94.87,430.08
+LTC-USD,daily,Topological Persistence,Regime Change,LightGBM,95.79,631.7
+LTC-USD,daily,Topological Persistence,Regime Change,CatBoost,93.94,1457.33
+LTC-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.85,1.75
+LTC-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,84.09,187.09
+LTC-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,84.09,184.64
+LTC-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,84.76,26.98
+LTC-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,75.17,969.95
+LTC-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.82,1.72
+LTC-USD,hourly,Volatility Regime,Regime State,XGBoost,92.82,742.73
+LTC-USD,hourly,Volatility Regime,Regime State,LightGBM,92.82,546.28
+LTC-USD,hourly,Volatility Regime,Regime State,CatBoost,92.82,289.92
+LTC-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.3,729.77
+LTC-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.58,673.78
+LTC-USD,hourly,Topological Persistence,Regime Change,CatBoost,89.99,2778.04
+LTC-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.25,1.75
+LTC-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.2,135.15
+LTC-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.34,104.44
+LTC-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,84.39,33.51
+MNT-USD,daily,Power Law Distributions,Tail Risk,XGBoost,78.89,476.49
+MNT-USD,daily,Power Law Distributions,Tail Risk,LightGBM,78.15,316.55
+MNT-USD,daily,Power Law Distributions,Tail Risk,CatBoost,76.67,112.31
+MNT-USD,daily,Volatility Regime,Regime State,LogisticRegression,94.33,1.72
+MNT-USD,daily,Volatility Regime,Regime State,XGBoost,94.33,136.31
+MNT-USD,daily,Volatility Regime,Regime State,LightGBM,94.33,234.13
+MNT-USD,daily,Volatility Regime,Regime State,CatBoost,94.33,58.2
+MNT-USD,daily,Topological Persistence,Regime Change,XGBoost,95.39,198.13
+MNT-USD,daily,Topological Persistence,Regime Change,LightGBM,96.45,391.1
+MNT-USD,daily,Topological Persistence,Regime Change,CatBoost,96.1,744.3
+MNT-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,88.04,1.75
+MNT-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,86.23,92.76
+MNT-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,85.87,205.58
+MNT-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,86.96,59.84
+MNT-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,73.29,1305.68
+MNT-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.86,1.72
+MNT-USD,hourly,Volatility Regime,Regime State,XGBoost,92.86,148.37
+MNT-USD,hourly,Volatility Regime,Regime State,LightGBM,92.86,371.53
+MNT-USD,hourly,Volatility Regime,Regime State,CatBoost,92.86,27.34
+MNT-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.44,616.0
+MNT-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.2,654.03
+MNT-USD,hourly,Topological Persistence,Regime Change,CatBoost,91.52,2805.63
+MNT-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.39,1.75
+MNT-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,85.15,116.2
+MNT-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,85.06,164.16
+MNT-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.15,127.56
+CRO-USD,daily,Power Law Distributions,Tail Risk,XGBoost,76.1,664.2
+CRO-USD,daily,Power Law Distributions,Tail Risk,LightGBM,72.74,565.16
+CRO-USD,daily,Volatility Regime,Regime State,LogisticRegression,94.15,1.72
+CRO-USD,daily,Volatility Regime,Regime State,XGBoost,94.15,216.77
+CRO-USD,daily,Volatility Regime,Regime State,LightGBM,94.15,363.92
+CRO-USD,daily,Volatility Regime,Regime State,CatBoost,94.15,41.66
+CRO-USD,daily,Topological Persistence,Regime Change,XGBoost,95.04,450.53
+CRO-USD,daily,Topological Persistence,Regime Change,LightGBM,94.91,461.46
+CRO-USD,daily,Topological Persistence,Regime Change,CatBoost,94.66,1490.29
+CRO-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.87,1.75
+CRO-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,84.23,190.7
+CRO-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,84.36,86.19
+CRO-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,84.23,67.61
+CRO-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,72.53,1248.82
+CRO-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,85.98,258.33
+CRO-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.48,1.72
+CRO-USD,hourly,Volatility Regime,Regime State,XGBoost,92.48,179.54
+CRO-USD,hourly,Volatility Regime,Regime State,LightGBM,92.48,418.94
+CRO-USD,hourly,Volatility Regime,Regime State,CatBoost,92.48,37.44
+CRO-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.11,544.53
+CRO-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.2,631.99
+CRO-USD,hourly,Topological Persistence,Regime Change,CatBoost,91.95,1464.93
+CRO-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.58,1.75
+CRO-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.63,125.56
+CRO-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.87,172.83
+CRO-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,84.87,181.66
+TON-USD,daily,Power Law Distributions,Tail Risk,XGBoost,75.21,594.43
+TON-USD,daily,Power Law Distributions,Tail Risk,LightGBM,72.5,457.0
+TON-USD,daily,Power Law Distributions,Tail Risk,CatBoost,75.0,823.63
+TON-USD,daily,Volatility Regime,Regime State,LogisticRegression,92.8,1.72
+TON-USD,daily,Volatility Regime,Regime State,XGBoost,92.8,228.63
+TON-USD,daily,Volatility Regime,Regime State,LightGBM,92.8,58.52
+TON-USD,daily,Volatility Regime,Regime State,CatBoost,92.8,427.57
+TON-USD,daily,Topological Persistence,Regime Change,XGBoost,94.86,229.08
+TON-USD,daily,Topological Persistence,Regime Change,LightGBM,95.68,412.81
+TON-USD,daily,Topological Persistence,Regime Change,CatBoost,94.03,70.7
+TON-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,88.48,1.75
+TON-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,85.39,117.42
+TON-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,85.19,136.8
+TON-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,85.8,152.4
+TON-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,76.46,1263.68
+TON-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,80.64,524.58
+TON-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.96,1.72
+TON-USD,hourly,Volatility Regime,Regime State,XGBoost,92.96,299.18
+TON-USD,hourly,Volatility Regime,Regime State,LightGBM,92.96,121.52
+TON-USD,hourly,Volatility Regime,Regime State,CatBoost,92.96,24.88
+TON-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.77,586.5
+TON-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.2,639.23
+TON-USD,hourly,Topological Persistence,Regime Change,CatBoost,86.69,118.68
+TON-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.25,1.75
+TON-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,85.82,73.82
+TON-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,85.78,89.55
+TON-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,86.16,713.47
+XMR-USD,daily,Power Law Distributions,Tail Risk,XGBoost,71.59,819.77
+XMR-USD,daily,Volatility Regime,Regime State,LogisticRegression,92.27,1.72
+XMR-USD,daily,Volatility Regime,Regime State,XGBoost,92.38,338.34
+XMR-USD,daily,Volatility Regime,Regime State,LightGBM,92.27,658.66
+XMR-USD,daily,Volatility Regime,Regime State,CatBoost,92.27,53.6
+XMR-USD,daily,Topological Persistence,Regime Change,XGBoost,95.03,466.13
+XMR-USD,daily,Topological Persistence,Regime Change,LightGBM,95.36,562.88
+XMR-USD,daily,Topological Persistence,Regime Change,CatBoost,94.37,1410.1
+XMR-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.11,1.75
+XMR-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,83.56,243.51
+XMR-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,84.22,309.78
+XMR-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,83.22,1342.3
+XMR-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,76.37,1267.77
+XMR-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,72.91,538.42
+XMR-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.1,1.72
+XMR-USD,hourly,Volatility Regime,Regime State,XGBoost,92.1,260.67
+XMR-USD,hourly,Volatility Regime,Regime State,LightGBM,92.1,135.6
+XMR-USD,hourly,Volatility Regime,Regime State,CatBoost,92.1,94.32
+XMR-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.58,613.05
+XMR-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.77,625.17
+XMR-USD,hourly,Topological Persistence,Regime Change,CatBoost,90.95,2702.91
+XMR-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.53,1.75
+XMR-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,83.24,200.59
+XMR-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,83.0,335.06
+XMR-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,83.81,1275.39
+UNI-USD,daily,Power Law Distributions,Tail Risk,XGBoost,74.05,617.93
+UNI-USD,daily,Power Law Distributions,Tail Risk,LightGBM,76.63,430.8
+UNI-USD,daily,Power Law Distributions,Tail Risk,CatBoost,72.34,820.7
+UNI-USD,daily,Volatility Regime,Regime State,LogisticRegression,90.91,1.72
+UNI-USD,daily,Volatility Regime,Regime State,XGBoost,90.91,115.1
+UNI-USD,daily,Volatility Regime,Regime State,LightGBM,90.91,471.6
+UNI-USD,daily,Volatility Regime,Regime State,CatBoost,90.91,50.35
+UNI-USD,daily,Topological Persistence,Regime Change,XGBoost,93.1,226.78
+UNI-USD,daily,Topological Persistence,Regime Change,LightGBM,94.44,616.71
+UNI-USD,daily,Topological Persistence,Regime Change,CatBoost,92.42,393.33
+UNI-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,81.63,1.75
+UNI-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,80.78,259.34
+UNI-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,81.46,391.99
+UNI-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,81.97,1184.67
+UNI-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,71.52,1340.06
+UNI-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.25,1.72
+UNI-USD,hourly,Volatility Regime,Regime State,XGBoost,93.25,314.09
+UNI-USD,hourly,Volatility Regime,Regime State,LightGBM,93.25,203.81
+UNI-USD,hourly,Volatility Regime,Regime State,CatBoost,93.25,38.53
+UNI-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.53,708.36
+UNI-USD,hourly,Topological Persistence,Regime Change,LightGBM,92.96,586.13
+UNI-USD,hourly,Topological Persistence,Regime Change,CatBoost,91.76,2858.07
+UNI-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,87.45,1.75
+UNI-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,87.36,234.13
+UNI-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,87.74,185.86
+UNI-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,87.69,547.29
+AAVE-USD,daily,Power Law Distributions,Tail Risk,XGBoost,75.0,415.68
+AAVE-USD,daily,Power Law Distributions,Tail Risk,LightGBM,86.98,180.25
+AAVE-USD,daily,Power Law Distributions,Tail Risk,CatBoost,72.4,817.94
+AAVE-USD,daily,Volatility Regime,Regime State,LogisticRegression,92.86,1.72
+AAVE-USD,daily,Volatility Regime,Regime State,XGBoost,92.86,91.09
+AAVE-USD,daily,Volatility Regime,Regime State,LightGBM,92.86,144.52
+AAVE-USD,daily,Volatility Regime,Regime State,CatBoost,92.86,271.27
+AAVE-USD,daily,Topological Persistence,Regime Change,XGBoost,95.58,297.22
+AAVE-USD,daily,Topological Persistence,Regime Change,LightGBM,96.09,568.99
+AAVE-USD,daily,Topological Persistence,Regime Change,CatBoost,94.56,2856.36
+AAVE-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,84.71,1.75
+AAVE-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,82.99,178.71
+AAVE-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,83.68,253.46
+AAVE-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,84.36,36.27
+AAVE-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,74.5,982.84
+AAVE-USD,hourly,Power Law Distributions,Tail Risk,LightGBM,85.59,140.6
+AAVE-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.96,1.72
+AAVE-USD,hourly,Volatility Regime,Regime State,XGBoost,92.96,182.17
+AAVE-USD,hourly,Volatility Regime,Regime State,LightGBM,92.96,105.44
+AAVE-USD,hourly,Volatility Regime,Regime State,CatBoost,92.96,62.67
+AAVE-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.82,620.63
+AAVE-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.49,562.6
+AAVE-USD,hourly,Topological Persistence,Regime Change,CatBoost,91.28,1484.36
+AAVE-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.06,1.75
+AAVE-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,86.21,204.77
+AAVE-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,86.06,70.22
+AAVE-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,86.49,2311.78
+ENA-USD,daily,Power Law Distributions,Tail Risk,LightGBM,85.42,130.36
+ENA-USD,daily,Volatility Regime,Regime State,LogisticRegression,88.73,1.72
+ENA-USD,daily,Volatility Regime,Regime State,XGBoost,85.78,58.35
+ENA-USD,daily,Volatility Regime,Regime State,LightGBM,88.73,52.33
+ENA-USD,daily,Volatility Regime,Regime State,CatBoost,88.73,21.21
+ENA-USD,daily,Topological Persistence,Regime Change,LogisticRegression,71.08,1.82
+ENA-USD,daily,Topological Persistence,Regime Change,XGBoost,94.12,346.8
+ENA-USD,daily,Topological Persistence,Regime Change,LightGBM,94.12,119.46
+ENA-USD,daily,Topological Persistence,Regime Change,CatBoost,94.61,118.19
+ENA-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,82.32,1.75
+ENA-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,79.29,261.57
+ENA-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,78.28,386.21
+ENA-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,77.78,118.63
+ENA-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,71.37,1123.1
+ENA-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.77,1.72
+ENA-USD,hourly,Volatility Regime,Regime State,XGBoost,93.77,333.06
+ENA-USD,hourly,Volatility Regime,Regime State,LightGBM,93.77,355.24
+ENA-USD,hourly,Volatility Regime,Regime State,CatBoost,93.77,856.56
+ENA-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.06,755.74
+ENA-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.92,626.59
+ENA-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.53,1432.53
+ENA-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.25,1.75
+ENA-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,85.63,71.99
+ENA-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,85.58,51.27
+ENA-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.34,43.59
+NEAR-USD,daily,Power Law Distributions,Tail Risk,XGBoost,73.86,317.82
+NEAR-USD,daily,Power Law Distributions,Tail Risk,LightGBM,72.11,580.52
+NEAR-USD,daily,Volatility Regime,Regime State,LogisticRegression,88.49,1.72
+NEAR-USD,daily,Volatility Regime,Regime State,XGBoost,88.49,95.13
+NEAR-USD,daily,Volatility Regime,Regime State,LightGBM,88.49,101.81
+NEAR-USD,daily,Volatility Regime,Regime State,CatBoost,88.49,22.82
+NEAR-USD,daily,Topological Persistence,Regime Change,XGBoost,92.61,345.17
+NEAR-USD,daily,Topological Persistence,Regime Change,LightGBM,92.61,666.78
+NEAR-USD,daily,Topological Persistence,Regime Change,CatBoost,91.75,2943.93
+NEAR-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.07,1.75
+NEAR-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,84.03,177.52
+NEAR-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,83.33,265.05
+NEAR-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,84.2,376.81
+NEAR-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,76.18,1252.38
+NEAR-USD,hourly,Power Law Distributions,Tail Risk,CatBoost,71.28,3182.01
+NEAR-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.73,1.72
+NEAR-USD,hourly,Volatility Regime,Regime State,XGBoost,93.73,60.42
+NEAR-USD,hourly,Volatility Regime,Regime State,LightGBM,93.73,436.86
+NEAR-USD,hourly,Volatility Regime,Regime State,CatBoost,93.73,102.67
+NEAR-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.68,702.77
+NEAR-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.16,602.92
+NEAR-USD,hourly,Topological Persistence,Regime Change,CatBoost,87.36,693.59
+NEAR-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.2,1.75
+NEAR-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,85.3,104.76
+NEAR-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,85.39,193.27
+NEAR-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.34,920.77
+APT-USD,daily,Power Law Distributions,Tail Risk,XGBoost,75.14,494.57
+APT-USD,daily,Power Law Distributions,Tail Risk,LightGBM,74.58,527.63
+APT-USD,daily,Power Law Distributions,Tail Risk,CatBoost,74.58,3144.21
+APT-USD,daily,Volatility Regime,Regime State,LogisticRegression,89.62,1.72
+APT-USD,daily,Volatility Regime,Regime State,XGBoost,89.62,148.57
+APT-USD,daily,Volatility Regime,Regime State,LightGBM,89.62,107.75
+APT-USD,daily,Volatility Regime,Regime State,CatBoost,89.62,20.74
+APT-USD,daily,Topological Persistence,Regime Change,XGBoost,93.17,325.84
+APT-USD,daily,Topological Persistence,Regime Change,LightGBM,92.9,353.18
+APT-USD,daily,Topological Persistence,Regime Change,CatBoost,91.26,758.08
+APT-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.28,1.75
+APT-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,83.89,169.54
+APT-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,84.72,82.78
+APT-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,86.11,65.22
+APT-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,75.98,1184.07
+APT-USD,hourly,Power Law Distributions,Tail Risk,CatBoost,70.22,824.77
+APT-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.39,1.72
+APT-USD,hourly,Volatility Regime,Regime State,XGBoost,92.39,149.37
+APT-USD,hourly,Volatility Regime,Regime State,LightGBM,92.39,72.36
+APT-USD,hourly,Volatility Regime,Regime State,CatBoost,92.39,38.77
+APT-USD,hourly,Topological Persistence,Regime Change,XGBoost,93.1,668.17
+APT-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.82,138.6
+APT-USD,hourly,Topological Persistence,Regime Change,CatBoost,91.33,2797.37
+APT-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.68,1.75
+APT-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,86.16,222.87
+APT-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,86.21,183.33
+APT-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,86.16,1301.71
+ASTER-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,71.23,862.27
+ASTER-USD,hourly,Power Law Distributions,Tail Risk,CatBoost,71.23,3205.95
+ASTER-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.78,1.72
+ASTER-USD,hourly,Volatility Regime,Regime State,XGBoost,92.78,205.13
+ASTER-USD,hourly,Volatility Regime,Regime State,LightGBM,92.78,124.53
+ASTER-USD,hourly,Volatility Regime,Regime State,CatBoost,92.78,47.95
+ASTER-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.42,460.33
+ASTER-USD,hourly,Topological Persistence,Regime Change,LightGBM,93.92,645.95
+ASTER-USD,hourly,Topological Persistence,Regime Change,CatBoost,91.87,767.12
+ASTER-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,87.46,1.75
+ASTER-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,86.3,209.76
+ASTER-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,86.22,481.44
+ASTER-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,86.3,353.47
+LEO-USD,daily,Power Law Distributions,Tail Risk,XGBoost,71.07,398.68
+LEO-USD,daily,Power Law Distributions,Tail Risk,LightGBM,72.87,144.8
+LEO-USD,daily,Power Law Distributions,Tail Risk,CatBoost,71.21,3187.97
+LEO-USD,daily,Volatility Regime,Regime State,LogisticRegression,93.9,1.72
+LEO-USD,daily,Volatility Regime,Regime State,XGBoost,93.9,111.21
+LEO-USD,daily,Volatility Regime,Regime State,LightGBM,93.9,393.53
+LEO-USD,daily,Volatility Regime,Regime State,CatBoost,93.9,495.2
+LEO-USD,daily,Topological Persistence,Regime Change,XGBoost,94.85,268.09
+LEO-USD,daily,Topological Persistence,Regime Change,LightGBM,95.12,612.96
+LEO-USD,daily,Topological Persistence,Regime Change,CatBoost,94.31,770.27
+LEO-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,88.52,1.75
+LEO-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,86.48,200.76
+LEO-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,86.75,288.21
+LEO-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,87.7,23.95
+LEO-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,73.44,1118.12
+LEO-USD,hourly,Volatility Regime,Regime State,LogisticRegression,94.83,1.72
+LEO-USD,hourly,Volatility Regime,Regime State,XGBoost,94.88,494.88
+LEO-USD,hourly,Volatility Regime,Regime State,LightGBM,94.88,238.17
+LEO-USD,hourly,Volatility Regime,Regime State,CatBoost,94.88,31.04
+LEO-USD,hourly,Topological Persistence,Regime Change,XGBoost,95.07,606.99
+LEO-USD,hourly,Topological Persistence,Regime Change,LightGBM,94.97,587.21
+LEO-USD,hourly,Topological Persistence,Regime Change,CatBoost,93.68,1451.72
+LEO-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,86.59,1.75
+LEO-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,83.19,106.81
+LEO-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,83.09,150.71
+LEO-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,83.62,236.05
+ZEC-USD,daily,Power Law Distributions,Tail Risk,XGBoost,76.06,953.52
+ZEC-USD,daily,Power Law Distributions,Tail Risk,LightGBM,74.27,586.66
+ZEC-USD,daily,Power Law Distributions,Tail Risk,CatBoost,74.27,3187.97
+ZEC-USD,daily,Volatility Regime,Regime State,LogisticRegression,94.04,1.72
+ZEC-USD,daily,Volatility Regime,Regime State,XGBoost,94.04,113.82
+ZEC-USD,daily,Volatility Regime,Regime State,LightGBM,94.04,67.02
+ZEC-USD,daily,Volatility Regime,Regime State,CatBoost,94.04,87.33
+ZEC-USD,daily,Topological Persistence,Regime Change,XGBoost,94.04,381.8
+ZEC-USD,daily,Topological Persistence,Regime Change,LightGBM,95.47,653.54
+ZEC-USD,daily,Topological Persistence,Regime Change,CatBoost,93.6,2901.75
+ZEC-USD,daily,Complex Systems Emergence,Regime Emergence,LogisticRegression,88.0,1.75
+ZEC-USD,daily,Complex Systems Emergence,Regime Emergence,XGBoost,86.33,76.92
+ZEC-USD,daily,Complex Systems Emergence,Regime Emergence,LightGBM,86.33,483.66
+ZEC-USD,daily,Complex Systems Emergence,Regime Emergence,CatBoost,86.67,64.26
+ZEC-USD,hourly,Power Law Distributions,Tail Risk,XGBoost,75.31,1173.51
+ZEC-USD,hourly,Volatility Regime,Regime State,LogisticRegression,92.24,1.72
+ZEC-USD,hourly,Volatility Regime,Regime State,XGBoost,92.24,194.9
+ZEC-USD,hourly,Volatility Regime,Regime State,LightGBM,92.24,243.46
+ZEC-USD,hourly,Volatility Regime,Regime State,CatBoost,92.24,348.04
+ZEC-USD,hourly,Topological Persistence,Regime Change,XGBoost,92.43,762.89
+ZEC-USD,hourly,Topological Persistence,Regime Change,LightGBM,92.62,663.81
+ZEC-USD,hourly,Topological Persistence,Regime Change,CatBoost,90.57,2834.91
+ZEC-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,85.39,1.75
+ZEC-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,84.82,170.71
+ZEC-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.67,170.44
+ZEC-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.54,57.42
+CC-USD,hourly,Volatility Regime,Regime State,LogisticRegression,93.88,1.72
+CC-USD,hourly,Volatility Regime,Regime State,XGBoost,94.0,85.46
+CC-USD,hourly,Volatility Regime,Regime State,LightGBM,94.0,184.96
+CC-USD,hourly,Volatility Regime,Regime State,CatBoost,93.88,14.89
+CC-USD,hourly,Topological Persistence,Regime Change,XGBoost,94.24,425.38
+CC-USD,hourly,Topological Persistence,Regime Change,LightGBM,95.2,47.4
+CC-USD,hourly,Topological Persistence,Regime Change,CatBoost,92.33,2425.11
+CC-USD,hourly,Complex Systems Emergence,Regime Emergence,LogisticRegression,87.77,1.75
+CC-USD,hourly,Complex Systems Emergence,Regime Emergence,XGBoost,83.33,61.34
+CC-USD,hourly,Complex Systems Emergence,Regime Emergence,LightGBM,84.05,526.94
+CC-USD,hourly,Complex Systems Emergence,Regime Emergence,CatBoost,85.25,2116.01
